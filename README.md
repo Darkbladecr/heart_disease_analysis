@@ -1,5 +1,7 @@
 # Understanding Heart Disease
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Darkbladecr/heart_disease_analysis/master)
+
 Data originally from kaggle dataset: https://www.kaggle.com/ronitf/heart-disease-uci
 
 Please note the kaggle dataset is incorrect (inverted heart disease tags, and some errors in encoding). I have taken the raw data from the original paper [Detrano et al. 1989](https://www.ajconline.org/article/0002-9149(89)90524-9/pdf)
